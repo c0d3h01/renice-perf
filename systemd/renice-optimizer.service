@@ -1,0 +1,11 @@
+[Unit]
+Description=Renice Performance Optimizer
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/renice-optimizer
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

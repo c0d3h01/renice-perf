@@ -1,0 +1,7 @@
+/home/harsh/Documents/GitHub/renice-perf/build/CMakeFiles/renice-optimizer.dir
+/home/harsh/Documents/GitHub/renice-perf/build/CMakeFiles/edit_cache.dir
+/home/harsh/Documents/GitHub/renice-perf/build/CMakeFiles/rebuild_cache.dir
+/home/harsh/Documents/GitHub/renice-perf/build/CMakeFiles/list_install_components.dir
+/home/harsh/Documents/GitHub/renice-perf/build/CMakeFiles/install.dir
+/home/harsh/Documents/GitHub/renice-perf/build/CMakeFiles/install/local.dir
+/home/harsh/Documents/GitHub/renice-perf/build/CMakeFiles/install/strip.dir
