@@ -66,7 +66,7 @@ void optimize_system_processes() {
 
     // Optimize critical system processes
     for (int i = 0; i < num_critical; i++) {
-        set_process_priority(critical_pids[i], -20);  // Highest priority
+        set_process_priority(critical_pids[i], -15);  // Highest priority
     }
 
     // Attempt to optimize all running processes
